@@ -1,0 +1,78 @@
+body{
+    font-family: 'Nunito';
+    font-size: 22px;
+}
+ul{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 88px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+li{
+    display: inline;
+    top: 27px;
+    left: 418px;
+    width: 1086px;
+    height: 41px;
+    opacity: 1;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    top: 309px;
+    left: 1113px;
+    width: 354px;
+    height: 374px;
+    transform: matrix(0.63, -0.78, 0.78, 0.63, 0, 0);
+    background: #293241 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.middle{
+    width: 1100px;
+    height: 500px;
+    margin-left: 24%;
+    margin-top: 10%;
+}
+button{
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.app{
+    left: 415px;
+    width: 207px;
+    height: 64px;
+    background: #293241 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+
+}
+.app1{
+    top: 651px;
+    left: 727px;
+    width: 133px;
+    height: 38px;
+    background: #FF643F 0% 0% no-repeat padding-box;
+    border: 3px solid #FF643F;
+    border-radius: 15px;
+    opacity: 1;
+}
+input{
+    top: 652px;
+    left: 415px;
+    width: 301px;
+    height: 38px;
+    border: 1px solid #293241;
+    border-radius: 15px;
+    opacity: 0.3;
+}
+.email{
+    top: 651px;
+    left: 415px;
+    width: 445px;
+    height: 81px;
+    opacity: 1;
+}

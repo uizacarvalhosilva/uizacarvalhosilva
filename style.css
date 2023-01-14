@@ -1,4 +1,12 @@
 body{
     font-size: 20px;
-    font-family: 'Nunito';
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    width: 940px;
+    margin: 0 auto;
+}
+nav li{
+    display: inline-block;
+    padding: 20px;
 }
