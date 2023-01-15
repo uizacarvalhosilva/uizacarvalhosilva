@@ -1,10 +1,12 @@
 body{
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-align: center;
 }
 nav{
     width: 940px;
-    margin: 60px 0 0 auto;
+    margin: 70px 0 0 auto;
 }
 nav li{
     display: inline-block;
@@ -13,30 +15,89 @@ nav li{
 nav a{
     text-decoration: none;
 }
-.projetos{
-    width: 90%;
-    height: 600px;
-    margin: 0 auto;
-    padding: 80px;
+nav a:hover{
+    color: #845EC2;
+}
+main h1{
     text-align: center;
-    background-color: beige;
+    font-size: 50px;
+    padding: 20px;
+}
+main p{
+    display: inline-block;
+    padding: 50px;
+    margin: 50px;
+    text-align: justify;
+    font-size: 20px;
+    width: 500px;
+}
+main strong{
+    color: #845EC2;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 50px;
 
+ }
+ h2,h3{
+    font-size: 40px;
+    padding: 20px;
+ }
+/* CSS Home */
+.listagem{
+    font-size: 20px;
+    display: inline-block;
+    color: black;
+}
+.home-conteudo{
+    display: inline-block;
+    text-align: center;
+    width: 100vw;
+    height: 70vh;
+    padding: 20px;
+}
+/* CSS Skills */
+ .main-skills{
+    display: inline-block;
+    width: 100vw;
+    padding: 10px;
+    color: black;
+}
+.skills{
+    width: 70px;
+    padding: 20px;
+}
+/* CSS Projetos */
+.projetos{
+    display: inline-block;
+    width: 100vw;
+    padding: 10px;
+    color: black;
+}
+.projetos a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    align-items: left;
 }
 .projetos li{
     display: inline-block;
-    text-align: center;
-    padding: 100px, 0 0 20px;
-    margin: 5px;
+    text-align: left;
+    width: 300px;
     height: 300px;
-    width: 700px;
-    background-color: azure;
+    margin: 5px;
+    padding: 20px;
+    border: solid 2px;
+    border-radius: 30px;
 }
-.social,h1{
+.social{
     width: 30px;
     padding: 3px;
 }
-
 footer{
     text-align: center;
-    padding: 90px;
+    margin: 0 auto;
+    padding: 200px 1px;
+    display: inline-block;
 }
