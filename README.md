@@ -8,6 +8,6 @@ Tenho investido meu foco e recursos na área de Front-end e Garantia da qualidad
 <a href="https://github.com/uizacarvalhosilva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uizacarvalhosilva&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/uizacarvalhosilva/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uizacarvalhosilva&repo=convoychat" />
 </a>
