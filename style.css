@@ -4,26 +4,39 @@ body{
 }
 nav{
     width: 940px;
-    margin: 0 auto;
+    margin: 60px 0 0 auto;
 }
 nav li{
     display: inline-block;
     padding: 20px;
 }
+nav a{
+    text-decoration: none;
+}
 .projetos{
-    width: 10px auto;
-    height: 0 auto;
+    width: 90%;
+    height: 600px;
+    margin: 0 auto;
+    padding: 80px;
+    text-align: center;
     background-color: beige;
-    padding: 200px;
+
 }
 .projetos li{
     display: inline-block;
-    padding: 10px;
-    margin: 20px;
-    height: 90px;
-    width: 300px;
+    text-align: center;
+    padding: 100px, 0 0 20px;
+    margin: 5px;
+    height: 300px;
+    width: 700px;
+    background-color: azure;
 }
+.social,h1{
+    width: 30px;
+    padding: 3px;
+}
+
 footer{
     text-align: center;
-    padding-top: 50px;
+    padding: 90px;
 }
