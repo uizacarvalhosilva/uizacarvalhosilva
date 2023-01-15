@@ -5,9 +5,3 @@ Iniciei a carreira em TI no estágio onde eu pude ter contato com manutenção e
 Atualmente eu trabalho como Assistente de Suporte (N1) na área de hospedagem de sites, sou formada em Análise e Desenvolvimento de Sistemas e tenho especialização em BI.
 Tenho investido meu foco e recursos na área de Front-end e Garantia da qualidade (QA), que são áreas complementares bem importantes e que despertam meu interesse e paixão.
 
-<a href="https://github.com/uizacarvalhosilva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uizacarvalhosilva&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/uizacarvalhosilva/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uizacarvalhosilva&repo=convoychat" />
-</a>
