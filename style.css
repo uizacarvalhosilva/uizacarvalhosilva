@@ -4,9 +4,22 @@ body{
     color: black;
     text-align: center;
 }
+header{
+    background-color: #4180ab;
+    padding: 0 50px;
+    margin-top: 0 50px;
+    font-family: 'Montserrat', sans-serif;
+    width: 100vw;
+    height: 90px;
+    text-align: center;
+    display: absolute;
+    color: #ffffff;
+}
 nav{
     width: 940px;
-    margin: 70px 0 0 auto;
+    height: 200px;
+    margin: 0 50%;
+    display: absolute;
 }
 nav li{
     display: inline-block;
@@ -14,29 +27,51 @@ nav li{
 }
 nav a{
     text-decoration: none;
+    color: #ffffff;
 }
 nav a:hover{
-    color: #845EC2;
+    color: #bdd1de;
+}
+main{
+    display: inline-table;
+    text-align: center;
+    width: 100vw;
+    height: 70vh;
+    padding: 20px;
 }
 main h1{
     text-align: center;
     font-size: 50px;
     padding: 20px;
+    margin-left: 90px;
+}
+.img-main{
+    width: 50px;
+    color: black;
+    height: 50px;
+    text-align: left;
+}
+main h2{
+    text-align: right;
+    font-size: 20px;
+    width: 70px;
+    height: 150px;
+    margin-left: 440px;
+    margin-top: 20px;
 }
 main p{
-    display: inline-block;
-    padding: 50px;
-    margin: 50px;
     text-align: justify;
     font-size: 20px;
-    width: 500px;
+    width: 450px;
+    height: 350px;
+    margin-top: -150px;
+    margin-left: 940px;
 }
 main strong{
-    color: #845EC2;
+    color: #4180ab;
     text-decoration: none;
     font-weight: bold;
     font-size: 50px;
-
  }
  h2,h3{
     font-size: 40px;
@@ -48,31 +83,13 @@ main strong{
     display: inline-block;
     color: black;
 }
-.home-conteudo{
-    display: inline-block;
-    text-align: center;
-    width: 100vw;
-    height: 70vh;
-    padding: 20px;
-}
 /* CSS Skills */
- .main-skills{
-    display: inline-block;
-    width: 100vw;
-    padding: 10px;
-    color: black;
-}
 .skills{
-    width: 70px;
+    width: 90px;
     padding: 20px;
+    margin: 10px;
 }
 /* CSS Projetos */
-.projetos{
-    display: inline-block;
-    width: 100vw;
-    padding: 10px;
-    color: black;
-}
 .projetos a{
     display: inline-block;
     text-decoration: none;
@@ -80,24 +97,38 @@ main strong{
     color: black;
     text-align: center;
     align-items: left;
+
 }
 .projetos li{
     display: inline-block;
     text-align: left;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     margin: 5px;
-    padding: 20px;
-    border: solid 2px;
-    border-radius: 30px;
+    padding: 30px;
+    border: solide 2px linear-gradient(#8ab3cf,#bdd1de,#e4ebf0,#4180ab);
+    border-radius: 200px;
+    box-shadow: 20px 5px #4180ab;;
+    background: linear-gradient(#8ab3cf,#bdd1de,#e4ebf0,#4180ab);
 }
 .social{
     width: 30px;
     padding: 3px;
+    color: #ffffff;
 }
 footer{
     text-align: center;
-    margin: 0 auto;
-    padding: 200px 1px;
-    display: inline-block;
+    width: 100vw;
+    background-color: #4180ab;
+    color: #ffffff;
+    height: 10vh;
+    padding-top: 50px;
 }
+
+/* paleta de cores
+.color1 { #4180ab };
+.color2 { #ffffff };
+.color3 { #8ab3cf };
+.color4 { #bdd1de };
+.color5 { #e4ebf0 };
+*/
